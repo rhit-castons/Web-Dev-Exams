@@ -1,0 +1,37 @@
+#mainText {
+    color: black;
+    text-align-last: center;
+    font-family: 'Noticia Text', serif;
+    font-family: 'Young Serif', serif;
+}
+
+#selectButton {
+    text-align: center;
+    font-family: 'Noticia Text', serif;
+    font-family: 'Young Serif', serif;
+}
+
+.logoImages > image{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    font-family: 'Noticia Text', serif;
+    font-family: 'Young Serif', serif;
+}
+
+.card {
+    font-family: 'Noticia Text', serif;
+    font-family: 'Young Serif', serif;
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        background-color: pink;
+    }
+    .container-fluid {
+        background-color: pink;
+    }
+}
+
